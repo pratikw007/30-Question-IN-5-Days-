@@ -33,7 +33,10 @@ public class SwapingOfTwoNumbers {
         //  System.out.println("After Swapping of Two Number "+a+" "+b);
         
         // Logic 5 : using Single Statemet
-        b = a+b - (a = b);
+        b = a+b - (a = b); // starting from right
+      //   10 + 20 = 30     |    a  = 20
+        //  a == 20      & b == 30 -20 = 10
+                     
          System.out.println("After Swapping of Two Number "+a+" "+b);
 
         
