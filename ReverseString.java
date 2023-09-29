@@ -19,12 +19,12 @@ public class ReverseString {
         // for (int i = ch.length-1; i >= 0 ; i--) {
         //     rev = rev + ch[i];
         // }
+        // System.out.println("Reverse String is "+rev);
 
 
         // ----------Logic 3 Using String Buffer Class---------------
-        StringBuffer sb = new StringBuffer(str);
-        System.out.println(sb.reverse());
+        // StringBuffer sb = new StringBuffer(str);
+        // System.out.println(sb.reverse());
 
-        // System.out.println("Reverse String is "+rev);
     }
 }

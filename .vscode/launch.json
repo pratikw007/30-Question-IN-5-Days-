@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LargestOfThreeNumber",
+            "request": "launch",
+            "mainClass": "LargestOfThreeNumber",
+            "projectName": "30 Question In 5 Days_3205634b"
+        },
+        {
+            "type": "java",
+            "name": "CountSumOfDigit",
+            "request": "launch",
+            "mainClass": "CountSumOfDigit",
+            "projectName": "30 Question In 5 Days_3205634b"
+        },
+        {
+            "type": "java",
+            "name": "EvenOddCount",
+            "request": "launch",
+            "mainClass": "EvenOddCount",
+            "projectName": "30 Question In 5 Days_3205634b"
+        },
+        {
+            "type": "java",
+            "name": "CountNumberOfDigit",
+            "request": "launch",
+            "mainClass": "CountNumberOfDigit",
+            "projectName": "30 Question In 5 Days_3205634b"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeString",
+            "request": "launch",
+            "mainClass": "PalindromeString",
+            "projectName": "30 Question In 5 Days_3205634b"
+        },
+        {
+            "type": "java",
+            "name": "countDigit",
+            "request": "launch",
+            "mainClass": "countDigit",
+            "projectName": "30 Question In 5 Days_3205634b"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "30 Question In 5 Days_3205634b"
+        },
+        {
+            "type": "java",
             "name": "ReverseString",
             "request": "launch",
             "mainClass": "ReverseString",
