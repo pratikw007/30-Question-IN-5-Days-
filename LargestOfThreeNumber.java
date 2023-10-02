@@ -15,12 +15,18 @@ public class LargestOfThreeNumber {
         int c = sc.nextInt();
         
         // Logic 1
-        if(a>b && a>c){
-            System.out.println(a+" is Largest Number");
-        }else if(b>a && b>c){
-            System.out.println(b+" is Largest Number");
-        }else{
-            System.out.println(c+" is Largest Number");
-        }
+        // if(a>b && a>c){
+        //     System.out.println(a+" is Largest Number");
+        // }else if(b>a && b>c){
+        //     System.out.println(b+" is Largest Number");
+        // }else{
+        //     System.out.println(c+" is Largest Number");
+        // }
+
+        //logic 2 - using ternari operator
+         int largest = a > b ? a:b; //largest of a & b
+         int largest1 = c > largest ? c : largest; //largest  of c & largest1
+
+         System.out.println(largest1);
     }
 }

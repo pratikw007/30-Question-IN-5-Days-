@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FactNumber",
+            "request": "launch",
+            "mainClass": "FactNumber",
+            "projectName": "30 Question In 5 Days_3205634b"
+        },
+        {
+            "type": "java",
+            "name": "GenrateRandomNumber",
+            "request": "launch",
+            "mainClass": "GenrateRandomNumber",
+            "projectName": "30 Question In 5 Days_3205634b"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "30 Question In 5 Days_3205634b"
+        },
+        {
+            "type": "java",
+            "name": "fibonacciSeries",
+            "request": "launch",
+            "mainClass": "fibonacciSeries",
+            "projectName": "30 Question In 5 Days_3205634b"
+        },
+        {
+            "type": "java",
             "name": "LargestOfThreeNumber",
             "request": "launch",
             "mainClass": "LargestOfThreeNumber",
